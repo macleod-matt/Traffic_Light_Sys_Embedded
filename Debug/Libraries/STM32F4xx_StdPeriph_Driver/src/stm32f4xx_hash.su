@@ -1,0 +1,17 @@
+stm32f4xx_hash.c:177:6:HASH_DeInit	8	static
+stm32f4xx_hash.c:197:6:HASH_Init	16	static
+stm32f4xx_hash.c:231:6:HASH_StructInit	16	static
+stm32f4xx_hash.c:255:6:HASH_Reset	4	static
+stm32f4xx_hash.c:297:6:HASH_SetLastWordValidBitsNbr	16	static
+stm32f4xx_hash.c:312:6:HASH_DataIn	16	static
+stm32f4xx_hash.c:323:9:HASH_GetInFIFOWordsNbr	4	static
+stm32f4xx_hash.c:337:6:HASH_GetDigest	16	static
+stm32f4xx_hash.c:352:6:HASH_StartDigest	4	static
+stm32f4xx_hash.c:395:6:HASH_SaveContext	24	static
+stm32f4xx_hash.c:417:6:HASH_RestoreContext	24	static
+stm32f4xx_hash.c:466:6:HASH_DMACmd	16	static
+stm32f4xx_hash.c:561:6:HASH_ITConfig	16	static
+stm32f4xx_hash.c:590:12:HASH_GetFlagStatus	24	static
+stm32f4xx_hash.c:631:6:HASH_ClearFlag	16	static
+stm32f4xx_hash.c:647:10:HASH_GetITStatus	24	static
+stm32f4xx_hash.c:681:6:HASH_ClearITPendingBit	16	static

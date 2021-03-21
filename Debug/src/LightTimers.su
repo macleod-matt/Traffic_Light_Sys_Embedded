@@ -1,0 +1,3 @@
+LightTimers.c:8:6:GREEN_Status_Timer_Callback	8	static
+LightTimers.c:24:6:YELLOW_Status_Timer_Callback	8	static
+LightTimers.c:41:6:RED_Status_Timer_Callback	8	static

@@ -1,0 +1,4 @@
+ShiftRegTimers.c:8:6:GREEN_Status_Timer_Callback	8	static
+ShiftRegTimers.c:24:6:YELLOW_Status_Timer_Callback	8	static
+ShiftRegTimers.c:41:6:RED_Status_Timer_Callback	8	static
+ShiftRegTimers.c:57:6:SW_Timer_Init	16	static

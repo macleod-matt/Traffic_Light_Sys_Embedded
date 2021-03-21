@@ -1,0 +1,2 @@
+stm32f4xx_cryp_tdes.c:102:13:CRYP_TDES_ECB	152	static
+stm32f4xx_cryp_tdes.c:204:13:CRYP_TDES_CBC	184	static

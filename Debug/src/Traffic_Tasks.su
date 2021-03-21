@@ -1,0 +1,4 @@
+Traffic_Tasks.c:24:6:Traffic_Flow_Task	32	static
+Traffic_Tasks.c:81:6:Traffic_Generator_Task	32	static
+Traffic_Tasks.c:192:6:Traffic_Light_State_Task	40	static
+Traffic_Tasks.c:272:6:Sys_Display_Task	40	static
