@@ -1,7 +1,7 @@
 ## Introduction 
 
-This document outlines the proposed solution for the Traffic Light system specified as Project 1 in the ECE 455 Lab manual [1]. The proposed solution has been tested for functionality and meets has proven to meet the functional requirements stated in the lab manual. This solution is an embedded software capable of simulating a real time traffic stop intersection on an STM32F0 discovery board utilizing the open source STM32F4 and FreeRTOS API’s. The final solution consisted of the following FreeRTOS objects 4 xTasks [2], 3 Software timers [2] and 3 queues [2] . 
-The final solution had to be capable of generating the traffic flow based on a real time analog voltage measurement, subjugated through the change in a potentiometer connected to the STM board. The final solution was demonstrated using the following program that provided a user interface for the embedded device: 
+The following code is an embedded software capable of simulating a real time traffic stop intersection on an STM32F0 discovery board utilizing the open source STM32F4 and FreeRTOS API’s. The final solution consisted of the following FreeRTOS objects 4 xTasks , 3 Software timers  and 3 queues . 
+The final solution had to be capable of generating the traffic flow based on a real time analog voltage measurement, subjugated through the change in a potentiometer connected to the STM board. The final solution was demonstrated using the following pyhton program that provided a user interface for the embedded device which toggled gpio leds on the STM board to simmulate randomized traffic: 
 
 ![image](https://user-images.githubusercontent.com/61804317/175792671-7c3bcbf5-0862-4c5c-bed9-bebfd5f894c9.png)
 
